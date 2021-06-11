@@ -1,13 +1,14 @@
 .videoCard {
 	color: #fff;
-	width: 500px;
-	height: 400px;
+	width: 400px;
+	height: 300px;
 	padding: 20px;
+	margin: 30px 50px;
 	transition: transform 0.3s ease-out;
 }
 
 .videoCard:hover {
-	transform: scale(1.09);
+	transform: scale(1.02);
 }
 
 .videoCard > img {
